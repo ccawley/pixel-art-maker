@@ -1,0 +1,255 @@
+body {
+  background-color: skyBlue;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 10px;
+}
+
+h1 {
+  font-size: 4em;
+  text-align: center;
+}
+
+.wrapper {
+  background-color: gainsboro;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+table {
+  margin: 0 auto;
+}
+
+td {
+  background-color: white;
+  border: 1px solid gainsboro;
+  margin: 1px;
+  padding: 8px;
+}
+
+.instructions {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-size: 1.4em;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.current {
+  border: 1px solid gray;
+  display: inline-block;
+  padding: 15px;
+  margin-left: 3px;
+}
+
+.colorBoxes {
+  margin-top: 20px;
+}
+
+.deepPink {
+  background-color: deepPink;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.pink {
+  background-color: pink;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.red {
+  background-color: red;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.darkRed {
+  background-color: darkRed;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.darkOrange {
+  background-color: darkOrange;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.orange {
+  background-color: orange;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.gold {
+  background-color: gold;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.yellow {
+  background-color: yellow;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.khaki {
+  background-color: khaki;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.saddleBrown {
+  background-color: saddleBrown;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.brown {
+  background-color: brown;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.peru {
+  background-color: peru;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.tan {
+  background-color: tan;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.olive {
+  background-color: olive;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.forestGreen {
+  background-color: forestGreen;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.darkGreen {
+  background-color: darkGreen;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.lime {
+  background-color: lime;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.paleGreen {
+  background-color: paleGreen;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.cyan {
+  background-color: cyan;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.teal {
+  background-color: teal;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.lightCyan {
+  background-color: lightCyan;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.lightSkyBlue {
+  background-color: lightSkyBlue;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.blue {
+  background-color: blue;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.darkBlue {
+  background-color: darkBlue;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.midnightBlue {
+  background-color: midnightBlue;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.mediumPurple {
+  background-color: mediumPurple;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.darkViolet {
+  background-color: darkViolet;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.purple {
+  background-color: purple;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.indigo {
+  background-color: indigo;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.white {
+  background-color: white;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.silver {
+  background-color: silver;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.gray {
+  background-color: gray;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.black {
+  background-color: black;
+  border-radius: 5px;
+  padding: 15px;
+}
